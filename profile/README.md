@@ -17,7 +17,7 @@ Kagan is a keyboard-first TUI that turns your terminal into an AI-powered Kanban
 ### Get started
 
 ```
-pip install kagan && kagan
+uv tool install kagan
 ```
 
 ### Links
