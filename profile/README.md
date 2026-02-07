@@ -34,3 +34,9 @@ pip install kagan && kagan
 Kagan is free and open source under the [MIT License](https://github.com/kagan-sh/kagan/blob/main/LICENSE).
 
 Issues and contributions are welcome -- check out the [contributing guide](https://github.com/kagan-sh/kagan/blob/main/CONTRIBUTING.md) to get started, or hop into [Discord](https://discord.gg/dB5AgMwWMy) to ask questions and share what you've built with Kagan.
+
+---
+
+### Built by MakerX
+
+Kagan is built by [MakerX](https://makerx.com.au/) -- an R&D studio that partners with organizations to build digital products and high-growth ventures on the frontier of technology. A hand-picked team of 40+ experts focused on bold technical experimentation, building and commercializing tools that help industries move into the future.
