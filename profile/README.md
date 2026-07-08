@@ -27,7 +27,6 @@ uv tool install kagan
 | **Docs** | [docs.kagan.sh](https://docs.kagan.sh) |
 | **Landing** | [kagan.sh](https://kagan.sh) |
 | **Repo** | [kagan-sh/kagan](https://github.com/kagan-sh/kagan) |
-| **Discord** | [discord.gg/dB5AgMwWMy](https://discord.gg/dB5AgMwWMy) |
 
 ---
 
