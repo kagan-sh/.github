@@ -32,7 +32,7 @@ uv tool install kagan
 
 Kagan is free and open source under the [MIT License](https://github.com/kagan-sh/kagan/blob/main/LICENSE).
 
-Issues and contributions are welcome -- check out the [contributing guide](https://github.com/kagan-sh/kagan/blob/main/CONTRIBUTING.md) to get started, or hop into [Discord](https://discord.gg/dB5AgMwWMy) to ask questions and share what you've built with Kagan.
+Issues and contributions are welcome -- check out the [contributing guide](https://github.com/kagan-sh/kagan/blob/main/CONTRIBUTING.md) to get started.
 
 ---
 
