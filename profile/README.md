@@ -6,11 +6,10 @@
 
 **Plan, run, and review parallel AI tasks from your terminal.**
 
-Kagan is a keyboard-first TUI that turns your terminal into an AI-powered Kanban board. Describe what you want in plain language, let AI agents work in isolated branches, then review and merge -- all without leaving the terminal.
+Kagan an OpenCode plugin for supervised agentic software development.
 
 [![PyPI](https://img.shields.io/pypi/v/kagan?style=flat-square)](https://pypi.org/project/kagan/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/kagan-sh/kagan/blob/main/LICENSE)
-[![Discord](https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dB5AgMwWMy)
 
 ---
 
