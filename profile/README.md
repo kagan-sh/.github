@@ -31,9 +31,3 @@ brew install --cask kagan-sh/tap/kagan
 | **Homebrew tap** | [kagan-sh/homebrew-tap](https://github.com/kagan-sh/homebrew-tap) |
 
 kagan is free and open source under the [MIT License](https://github.com/kagan-sh/kagan/blob/main/LICENSE). Issues and pull requests are welcome.
-
----
-
-### Built by MakerX
-
-kagan is built by [MakerX](https://makerx.com.au/), an R&D studio that partners with organizations to build digital products and high-growth ventures on the frontier of technology.
