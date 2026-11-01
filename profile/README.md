@@ -1,22 +1,25 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kagan-sh/kagan/main/.github/assets/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kagan-sh/kagan/main/.github/assets/logo-light.svg">
-  <img alt="Kagan" src="https://raw.githubusercontent.com/kagan-sh/kagan/main/.github/assets/logo-dark.svg" width="200">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kagan-sh/kagan/main/assets/brand/kagan-app-icon.svg" width="96" alt="kagan" />
+</p>
 
-**Plan, run, and review parallel AI tasks from your terminal.**
+<h3 align="center">kagan</h3>
 
-Kagan an OpenCode plugin for supervised agentic software development.
+<p align="center">A desktop app for coding with agents.</p>
 
-[![PyPI](https://img.shields.io/pypi/v/kagan?style=flat-square)](https://pypi.org/project/kagan/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/kagan-sh/kagan/blob/main/LICENSE)
+<p align="center">
+  <a href="https://github.com/kagan-sh/kagan">Repo</a> · <a href="https://docs.kagan.sh">Docs</a> · <a href="https://kagan.sh">kagan.sh</a>
+</p>
 
 ---
 
-### Get started
+Each thread is a real terminal running the agent you already use, such as Claude Code or Codex, in its own folder or git worktree. Review what changed, answer the questions agents ask, and extend kagan with plugins. Early (0.1.0): tested on macOS, Linux and Windows.
+
+### Install
+
+Download the signed app from [Releases](https://github.com/kagan-sh/kagan/releases), or on a Mac:
 
 ```
-uv tool install kagan
+brew install --cask kagan-sh/tap/kagan
 ```
 
 ### Links
@@ -24,17 +27,13 @@ uv tool install kagan
 | | |
 |---|---|
 | **Docs** | [docs.kagan.sh](https://docs.kagan.sh) |
-| **Landing** | [kagan.sh](https://kagan.sh) |
 | **Repo** | [kagan-sh/kagan](https://github.com/kagan-sh/kagan) |
+| **Homebrew tap** | [kagan-sh/homebrew-tap](https://github.com/kagan-sh/homebrew-tap) |
 
----
-
-Kagan is free and open source under the [MIT License](https://github.com/kagan-sh/kagan/blob/main/LICENSE).
-
-Issues and contributions are welcome -- check out the [contributing guide](https://github.com/kagan-sh/kagan/blob/main/CONTRIBUTING.md) to get started.
+kagan is free and open source under the [MIT License](https://github.com/kagan-sh/kagan/blob/main/LICENSE). Issues and pull requests are welcome.
 
 ---
 
 ### Built by MakerX
 
-Kagan is built by [MakerX](https://makerx.com.au/) - an R&D studio that partners with organizations to build digital products and high-growth ventures on the frontier of technology. A hand-picked team of 40+ experts focused on bold technical experimentation, building and commercializing tools that help industries move into the future.
+kagan is built by [MakerX](https://makerx.com.au/), an R&D studio that partners with organizations to build digital products and high-growth ventures on the frontier of technology.
